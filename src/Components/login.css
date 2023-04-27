@@ -1,0 +1,28 @@
+.log{
+    position: relative;
+    background: rgb(230, 238, 184);
+    min-height: 80vh;
+    width: calc(100% - 240px);
+    left: 240px;
+    transition: all 0.5s ease;
+}
+.sz{
+    height: 35px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+justify-content: center;
+margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+/* .home-section{
+    position: relative;
+    background: rgb(230, 238, 184);
+    min-height: 80vh;
+    width: calc(100% - 240px);
+    left: 240px;
+    transition: all 0.5s ease;
+  } */
